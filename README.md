@@ -1,0 +1,2 @@
+## Readme
+Exercises from coursera
